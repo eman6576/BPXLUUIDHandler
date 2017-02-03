@@ -11,7 +11,7 @@
     "Doug Russell": "info@blackpixel.com"
   },
   "source": {
-    "git": "https://github.com/eman6576/BPXLUUIDHandlert"
+    "git": "https://github.com/eman6576/BPXLUUIDHandler.git"
   },
   "source_files": "BPX*.{h,m}",
   "requires_arc": false
