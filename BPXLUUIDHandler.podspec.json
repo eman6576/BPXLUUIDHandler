@@ -6,12 +6,12 @@
     "ios": null
   },
   "summary": "Library to encapsulate all the handling of getting/storing the new UUID.",
-  "homepage": "https://github.com/eman6576/BPXLUUIDHandler",
+  "homepage": "https://github.com/silverlogic/BPXLUUIDHandler",
   "authors": {
     "Doug Russell": "info@blackpixel.com"
   },
   "source": {
-    "git": "https://github.com/eman6576/BPXLUUIDHandler.git"
+    "git": "https://github.com/silverlogic/BPXLUUIDHandler.git"
   },
   "source_files": "BPX*.{h,m}",
   "requires_arc": false
